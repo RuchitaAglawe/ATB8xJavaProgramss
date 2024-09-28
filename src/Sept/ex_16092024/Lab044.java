@@ -17,8 +17,8 @@ public class Lab044 {
     // They will come in the future. -OOPs concepts
 
     //new Operator
-    String s1 = new String(original: "Pramod");
-    System.out.println(s1 instanceof String);
+   // String s1 = new String(original: "Pramod");
+   // System.out.println(s1 instanceof String);
     // instance of Operator
 
 
