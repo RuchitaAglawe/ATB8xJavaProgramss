@@ -9,7 +9,7 @@ public class Lab053 {
         // pre - increment - ++operand.
         // value is incremented first and then stored in the result.
        // int a = 10;
-       // int b = ++a; // a = a+1
+       // int b = ++a // a = a+1
         // / a / output (b)
         // 10
         // 11 / 11
