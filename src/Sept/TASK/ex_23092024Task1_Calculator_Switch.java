@@ -1,6 +1,6 @@
 package Sept.TASK;
 
-public class ex_23092024_Task1_Calculator_Switch {
+public class ex_23092024Task1_Calculator_Switch {
         // Another method
         //Create a simple calculator that performs addition, subtraction, multiplication,
         // and division, modulus based on user input using switch statements.

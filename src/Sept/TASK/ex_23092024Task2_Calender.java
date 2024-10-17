@@ -1,6 +1,6 @@
 package Sept.TASK;
 
-public class ex_23092024_Task2_Calender {
+public class ex_23092024Task2_Calender {
     // Write a program that takes an integer input(1-12) and prints the name
     // of the corresponding month using a switch statement
     // Input - 12

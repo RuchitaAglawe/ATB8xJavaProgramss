@@ -1,6 +1,6 @@
 package Sept.TASK;
 
-public class ex_23092024_Unit_Convertor_Switch {
+public class ex_23092024Task3_Unit_Convertor_Switch {
     //(3) Write a program that converts between different units
     // (e.g., kilometers to miles, Celsius to Fahrenheit) based on user selection using a switch statement.
     //         Input. -
