@@ -1,6 +1,4 @@
-package Oct.ex_04102024;
-
-import java.sql.SQLOutput;
+package Oct.ex_04102024.Constructors.PC;
 
 public class Lab126 {
     public static void main(String[] args) {

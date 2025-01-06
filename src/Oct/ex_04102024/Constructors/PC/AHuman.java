@@ -1,4 +1,4 @@
-package Oct.ex_04102024;
+package Oct.ex_04102024.Constructors.PC;
 
 public class AHuman {
     String eyes_color;
